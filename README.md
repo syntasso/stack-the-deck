@@ -46,3 +46,11 @@ Identify ‘provisioning actions’ and ‘process rules’ shared by all resour
 Define ‘provisioning actions’ and ‘process rules’ that must occur per request.
 
 Put the finishing touches on your three-tier platform with a set of ‘interfaces’ and ‘destinations’.
+
+## Licence
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under the [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Syntasso and Kratix are trademarks of Syntasso Ltd.
